@@ -6,8 +6,7 @@
 
   | Repo | O que é | Stack |
   |---|---|---|
-  | **HubEscolas** | Backend e serviços — core-ia, worker-email, portal-api, normalizer, message-buffer | Node.js ·
-  PostgreSQL · Redis · RabbitMQ |
+  | **HubEscolas** | Backend e serviços — core-ia, worker-email, portal-api, normalizer, message-buffer | Node.js · PostgreSQL · Redis · RabbitMQ |
   | **opercao-hubescola** | Painel de operação — gestão de candidatos, vagas e triagens | Next.js |
   | **app.genteescola** | App mobile para candidatos | TypeScript |
   | **gente-escola** | Portal público de vagas — [genteescola.com.br](https://genteescola.com.br) | TypeScript |
