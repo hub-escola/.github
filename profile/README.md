@@ -6,10 +6,10 @@
 
   | Repo | O que é | Stack |
   |---|---|---|
-  | **HubEscolas** | Backend e serviços — core-ia, worker-email, portal-api, normalizer, message-buffer | Node.js · PostgreSQL · Redis · RabbitMQ |
-  | **opercao-hubescola** | Painel de operação — gestão de candidatos, vagas e triagens | Next.js |
+  | **HubEscolas** | Backend e serviços - core-ia, worker-email, portal-api, normalizer, message-buffer | Node.js · PostgreSQL · Redis · RabbitMQ |
+  | **opercao-hubescola** | Painel de operação - gestão de candidatos, vagas e triagens | Next.js |
   | **app.genteescola** | App mobile para candidatos | TypeScript |
-  | **gente-escola** | Portal público de vagas — [genteescola.com.br](https://genteescola.com.br) | TypeScript |
+  | **gente-escola** | Portal público de vagas - [genteescola.com.br](https://genteescola.com.br) | TypeScript |
   | **evonexus-brain** | Automação, agentes de IA e infraestrutura interna | Python |
 
   ## Arquitetura
@@ -23,4 +23,3 @@
   - **VPS** com Docker + Traefik (SSL) + Portainer
   - **CI/CD**: GitHub Actions builda imagens → GHCR → redeploy manual no Portainer
 
-  Cria o repo .github na org hub-escola, e coloca esse conteúdo em profile/README.md.
